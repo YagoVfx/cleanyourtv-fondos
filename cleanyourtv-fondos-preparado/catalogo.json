@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "categories": [
+    {
+      "id": "christmas",
+      "label": "Navidad",
+      "images": []
+    },
+    {
+      "id": "carnival",
+      "label": "Carnaval",
+      "images": []
+    },
+    {
+      "id": "halloween",
+      "label": "Halloween",
+      "images": []
+    },
+    {
+      "id": "summer",
+      "label": "Verano",
+      "images": []
+    },
+    {
+      "id": "autumn",
+      "label": "Otoño",
+      "images": []
+    },
+    {
+      "id": "spring",
+      "label": "Primavera",
+      "images": []
+    },
+    {
+      "id": "belarus",
+      "label": "Bielorrusia",
+      "images": []
+    },
+    {
+      "id": "snow",
+      "label": "Fondos nevados",
+      "images": []
+    },
+    {
+      "id": "night",
+      "label": "Fondos nocturnos",
+      "images": []
+    },
+    {
+      "id": "mountains",
+      "label": "Fondos montañosos",
+      "images": []
+    },
+    {
+      "id": "stars",
+      "label": "Estrellas",
+      "images": []
+    },
+    {
+      "id": "anime",
+      "label": "Anime",
+      "images": []
+    },
+    {
+      "id": "paintings",
+      "label": "Pinturas y cuadros",
+      "images": []
+    }
+  ]
+}
