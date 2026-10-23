@@ -60,6 +60,11 @@
     "label": "Anime"
   },
   {
+    "id": "cars",
+    "folder": "fondos/coches",
+    "label": "Coches"
+  },
+  {
     "id": "paintings",
     "folder": "fondos/pinturas",
     "label": "Pinturas y cuadros"

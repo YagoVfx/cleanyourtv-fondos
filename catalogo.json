@@ -4,67 +4,751 @@
     {
       "id": "christmas",
       "label": "Navidad",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/navidad/01.jpg",
+          "bytes": 712053,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "4db75cdbe2cc1b77c096a4595dca432f0ab7e1b22dc24d351897b9c388da875f"
+        },
+        {
+          "path": "fondos/navidad/02.jpg",
+          "bytes": 754411,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2de089645c154319cd5ae7ff27f5e46c64256fdf3cc62eb5541efaeb66b6b194"
+        },
+        {
+          "path": "fondos/navidad/03.jpg",
+          "bytes": 291588,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "98e07ca97147012f02ad0e685339ef7c99eadf699fdaa4b6c966e94483fb2e0b"
+        },
+        {
+          "path": "fondos/navidad/04.jpg",
+          "bytes": 592699,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b9278845c8cbe422e92b8fc1abfbaad4829b6953006e0702d4c1852b47fa746d"
+        },
+        {
+          "path": "fondos/navidad/05.jpg",
+          "bytes": 309319,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "22f2c80309b9453513ab0b170549166ec422a7ff621d60fa68cd3cf4608b4dd9"
+        }
+      ]
     },
     {
       "id": "carnival",
       "label": "Carnaval",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/carnaval/01.jpg",
+          "bytes": 484820,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "aeafcd1b202959e8efc223ac1f39a1b1f5f48add587da3b3c6c6b25aa79c9a26"
+        },
+        {
+          "path": "fondos/carnaval/02.jpg",
+          "bytes": 610740,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c46c09757624944759a868f49967dd8b1f45bbf1537f287d1160bb85651b7578"
+        },
+        {
+          "path": "fondos/carnaval/03.jpg",
+          "bytes": 522049,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "7569b94b66828232de9bef0be27cc5fcdb9d9fe03900df77aa45fc05b1aeaec7"
+        },
+        {
+          "path": "fondos/carnaval/04.jpg",
+          "bytes": 434847,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "681d44ea8b3c6797eaf96dec8638d477356fca4ed966a0de4efe91f1a9c04dc0"
+        },
+        {
+          "path": "fondos/carnaval/05.jpg",
+          "bytes": 765705,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "892f46130694f4be076ff8a50018eedf228b0ff7f254a17052999d9e9b13c713"
+        }
+      ]
     },
     {
       "id": "halloween",
       "label": "Halloween",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/halloween/01.jpg",
+          "bytes": 171077,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2212dbdd496284b0b75d5f4e461771fcb62c5b368f9aee63b31f684a3c372d6a"
+        },
+        {
+          "path": "fondos/halloween/02.jpg",
+          "bytes": 175396,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c9f224e533ebb988f4a720b992130363f10c94f40258398f8ff961f73f498d27"
+        },
+        {
+          "path": "fondos/halloween/03.jpg",
+          "bytes": 299711,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "802f02b57fc32d7b792045452e7390cce02c371eddf41c750cfd8e01ed445a59"
+        },
+        {
+          "path": "fondos/halloween/04.jpg",
+          "bytes": 257319,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "df246132ed464a60bf8e3ec1b8a5676040c85c240995fab82bb2511054ae855e"
+        },
+        {
+          "path": "fondos/halloween/05.jpg",
+          "bytes": 279736,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "9b53d4b81b68a85fefa9c07ec36c37d93d5d45b83598de8a594465d21596711d"
+        }
+      ]
     },
     {
       "id": "summer",
       "label": "Verano",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/verano/01.jpg",
+          "bytes": 577330,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a68b7449fe43695509ee151aa17d1006bde4a889ddaacde3f69e1f53dbdc18b9"
+        },
+        {
+          "path": "fondos/verano/02.jpg",
+          "bytes": 443283,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "98a7c2c57c2149e4a96a54ca5b26c5eeefe2f3246394481855f7a2f1d5aa94da"
+        },
+        {
+          "path": "fondos/verano/03.jpg",
+          "bytes": 265429,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "ad58e41f8222cb7df25ea7270890cfffaf28d08401b30b82443e910f8e096228"
+        },
+        {
+          "path": "fondos/verano/04.jpg",
+          "bytes": 220762,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5fb200307d71e6ae5710dd97844e4f85c043c672c67c14225d44bb0d4eb866f3"
+        },
+        {
+          "path": "fondos/verano/05.jpg",
+          "bytes": 382603,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5c15681f3a38517d23cc74f1e35c36426f9383b3f6081edae0082aa47016a376"
+        }
+      ]
     },
     {
       "id": "autumn",
       "label": "Otoño",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/otono/01.jpg",
+          "bytes": 679541,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "7dc51bba146639ebcb389f645fa3361be7236a7ae08136184823ede499776117"
+        },
+        {
+          "path": "fondos/otono/02.jpg",
+          "bytes": 426728,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6329f3b4dd4e366a0979bf5edd600340c4f6f5d5cfd8903f5ef4a168b402529b"
+        },
+        {
+          "path": "fondos/otono/03.jpg",
+          "bytes": 471621,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c1bcef789f7adc30c41338a22342264742de4237f54ad1b87e923663d348204b"
+        },
+        {
+          "path": "fondos/otono/04.jpg",
+          "bytes": 709932,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2e4818587decc66eaa562996d12f12e5cd8a6e56ba94f5d6046c19f6a68d384f"
+        },
+        {
+          "path": "fondos/otono/05.jpg",
+          "bytes": 897430,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "8c05cb18c71c9e7713f61b05a5b615d4f0ffcaf4548f0a84e79ed74bebedb270"
+        }
+      ]
     },
     {
       "id": "spring",
       "label": "Primavera",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/primavera/01.jpg",
+          "bytes": 221361,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "77ab851544cf7b307f12de1e867b1a7ddda176cf749c9ba6e9f92479f9c5cde0"
+        },
+        {
+          "path": "fondos/primavera/02.jpg",
+          "bytes": 659679,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "bd8c1989044bd27d945c589a2c909f6e06719e823a002cb7154dced845f50998"
+        },
+        {
+          "path": "fondos/primavera/03.jpg",
+          "bytes": 474227,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "424062914a3508882893b9638dbd201ae78250edf5f601d40306973b905e0d65"
+        },
+        {
+          "path": "fondos/primavera/04.jpg",
+          "bytes": 769442,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "33c23c92027b90b6d68f58ddeee78f67fac9da0eabe64ebd2646c42ea5db14b1"
+        },
+        {
+          "path": "fondos/primavera/05.jpg",
+          "bytes": 217046,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "f68588c8076707d00344464d240d04f470ea54ee73c3d806657ca6edfb30aa17"
+        }
+      ]
     },
     {
       "id": "belarus",
       "label": "Bielorrusia",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/bielorrusia/01.jpg",
+          "bytes": 765315,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a340d0fed8459b6bb4de477fe70d3d4f69184efef93bfc1aa423230a7ae588a9"
+        },
+        {
+          "path": "fondos/bielorrusia/02.jpg",
+          "bytes": 656586,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "bd26fa6c9560b7827cfd585ab39409aac4d1a2584bd1dce8f330dcc1b500cb0a"
+        },
+        {
+          "path": "fondos/bielorrusia/03.jpg",
+          "bytes": 166427,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "62f9f0f6a6c0df12d7e0184121d0c6f55f06879561569fd725d979ad5bb9d287"
+        },
+        {
+          "path": "fondos/bielorrusia/04.jpg",
+          "bytes": 301820,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "acaa7ce353bdd447fb092e235fd25da4ae7965c4b0c251df75e1e83d3fb5f38f"
+        },
+        {
+          "path": "fondos/bielorrusia/05.jpg",
+          "bytes": 333592,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c8ae26a50c2c09f5ce8d333baa40400eb16c935f0d05680aba49599dc73614aa"
+        }
+      ]
     },
     {
       "id": "snow",
       "label": "Fondos nevados",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/nevados/01.jpg",
+          "bytes": 196325,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "691d28511aae85b115a22cbafc90c58de3f69285fdabb727b2d8b8a5443adbfc"
+        },
+        {
+          "path": "fondos/nevados/02.jpg",
+          "bytes": 491160,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "4c250f2c1a59f46ed48b15979592743fedca56314878aed7409a00681b84fd0d"
+        },
+        {
+          "path": "fondos/nevados/03.jpg",
+          "bytes": 212889,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b55b0ee90cfb6ab20ebccc3127f34477d2dd68907999ecb15d0bd96b943dd33e"
+        },
+        {
+          "path": "fondos/nevados/04.jpg",
+          "bytes": 289785,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "51910988b7543bd4c7c6ce33f7ad823f330f89d6cda0e503735b4b447fe617b1"
+        },
+        {
+          "path": "fondos/nevados/05.jpg",
+          "bytes": 424336,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "17ee46ca236356b31c030d0a9d62934c13a5b2dc2f5962a7e8e4421a43a059b4"
+        }
+      ]
     },
     {
       "id": "night",
       "label": "Fondos nocturnos",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/nocturnos/01.jpg",
+          "bytes": 423138,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5610683fb97f2346ae7a313428f1eec226f1901fb11592fd28d6125de3a991e4"
+        },
+        {
+          "path": "fondos/nocturnos/02.jpg",
+          "bytes": 170383,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6b1f557379ceb5833b36010ec9af59cac2a1ab3a969442587b563dafca4a3acf"
+        },
+        {
+          "path": "fondos/nocturnos/03.jpg",
+          "bytes": 209059,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "4084e3b5316c06c86bac02cceeeb6de8ce697540dafafe8b103427f4fcdf8c8b"
+        },
+        {
+          "path": "fondos/nocturnos/04.jpg",
+          "bytes": 370374,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "3d2a27e120e9b01af5e3bfebf46315b2bf86f6dbe70353a678710697200da8e4"
+        },
+        {
+          "path": "fondos/nocturnos/05.jpg",
+          "bytes": 30050,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "60e578ccfddba44450f20cc8a14b170e9068678bae1a2a2bb3c4c1b2caa148a9"
+        }
+      ]
     },
     {
       "id": "mountains",
       "label": "Fondos montañosos",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/montanosos/01.jpg",
+          "bytes": 726643,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a7b4dc7a6f13c9f6c9b2f8bd94ec973945ef059dab4a0b3ae64100d5d1cf037d"
+        },
+        {
+          "path": "fondos/montanosos/02.jpg",
+          "bytes": 255078,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "d00507541bffcd5e84e10c529df73d13ac61effd6b248e782a2811671766bb03"
+        },
+        {
+          "path": "fondos/montanosos/03.jpg",
+          "bytes": 468780,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "8ecbf5aa87fbf024ac02754b5ef834df6ad6dff66d61efffa070b4452a2fd9ad"
+        },
+        {
+          "path": "fondos/montanosos/04.jpg",
+          "bytes": 624186,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "04c5a6d1461e0e2162c4c7266be8ec7f256362d20ef671bd2dc86fe35057a0c3"
+        },
+        {
+          "path": "fondos/montanosos/05.jpg",
+          "bytes": 405628,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "17b1aa9fa60c6e8c5348b39adaf607cdaff83a48e72b6a559552bf3cd9d8e045"
+        }
+      ]
     },
     {
       "id": "stars",
       "label": "Estrellas",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/estrellas/01.jpg",
+          "bytes": 77167,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "8c78e86fd486463113e1f5ff831cd07763237e50e3e4f3d158ed0e5aad164a9d"
+        },
+        {
+          "path": "fondos/estrellas/02.jpg",
+          "bytes": 386617,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c20e1c55ad0c5142ea2fd7a2c5484e42ef57a5c2bfab269453e9327728802fde"
+        },
+        {
+          "path": "fondos/estrellas/03.jpg",
+          "bytes": 433347,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b0599d94112b5ba77bcafb010a49b5548a2031688353d2f49ce22657f5503ba0"
+        },
+        {
+          "path": "fondos/estrellas/04.jpg",
+          "bytes": 320533,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "ace029e54d4dcb2c72cfd58d3a5a660f12e8a10cf0eacbde9e49466afbc2befe"
+        },
+        {
+          "path": "fondos/estrellas/05.jpg",
+          "bytes": 176241,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5adab0da8ff916d92efa63d656240edba71345f6395808411b419131a14f4b84"
+        }
+      ]
     },
     {
       "id": "anime",
       "label": "Anime",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/anime/boku-no-hero-01.jpg",
+          "bytes": 401849,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "71172af6a85abf5549f40ed29eb0abb59511a5405e7e73d7a09722e841063f6d"
+        },
+        {
+          "path": "fondos/anime/boku-no-hero-02.jpg",
+          "bytes": 205078,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "1190844cb0116e42b618f0217364311559f47627f43a72f70f71c87a090feb97"
+        },
+        {
+          "path": "fondos/anime/boku-no-hero-03.jpg",
+          "bytes": 333711,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6ee86a8f92e130b6b31a02cb9a9ec2ee4004ec59f28f07335a6680bcf2a5127e"
+        },
+        {
+          "path": "fondos/anime/boku-no-hero-04.jpg",
+          "bytes": 280927,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6f1eb7e27d0e2c6bafa1bd6b499555d9a6823366be6bb33420bec9e649b76630"
+        },
+        {
+          "path": "fondos/anime/boku-no-hero-05.jpg",
+          "bytes": 357865,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "76c3d496aa35390584fec71464aaf2a25a2caa669fc51e03fd90517fb9d4b9bf"
+        },
+        {
+          "path": "fondos/anime/demon-slayer-01.jpg",
+          "bytes": 464502,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "a1c6013de1d646b8d26b20d357d915d165a43517087d19fc79856d04c3b77075"
+        },
+        {
+          "path": "fondos/anime/demon-slayer-02.jpg",
+          "bytes": 364408,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "616718b0f5246408dcd871bbda15c6f0e4ddb294d0e834356e74e2635eea2204"
+        },
+        {
+          "path": "fondos/anime/demon-slayer-03.jpg",
+          "bytes": 257741,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "49759539734159052b75889ad6de6c6c2ec77e4d11af60f09db6139e932e5cb1"
+        },
+        {
+          "path": "fondos/anime/demon-slayer-04.jpg",
+          "bytes": 334948,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "ef5e9c210754af31fedff244ab33cbe53407ea250722d9b1449c9240f6eb9f35"
+        },
+        {
+          "path": "fondos/anime/demon-slayer-05.jpg",
+          "bytes": 179507,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "94632c38bca6f61d169abaf840b6ac37687ad57f2223f932bbe8cb5773ce4ce4"
+        },
+        {
+          "path": "fondos/anime/goku-01.jpg",
+          "bytes": 144137,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "0dd7ba686506527530e1d2f2cd51bd7b98f0328bb263bd9146fd74a70ed0ea33"
+        },
+        {
+          "path": "fondos/anime/goku-02.jpg",
+          "bytes": 241144,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "1586b18d96f70eaebc3e1157df1624249d5bc6bbe9b8911c36f49deba87144db"
+        },
+        {
+          "path": "fondos/anime/goku-03.jpg",
+          "bytes": 348769,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "6bd55ae0a5032f60cc9054628509bb8fedf360dbd935a94f5c95423eafbd2bb8"
+        },
+        {
+          "path": "fondos/anime/goku-04.jpg",
+          "bytes": 56506,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c0bb73a9ecb1772a527691e53c522950a0e7b26abbe4db093c30696d2ab479cf"
+        },
+        {
+          "path": "fondos/anime/goku-05.jpg",
+          "bytes": 142811,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "9a6cda39ec1e1308a5b05669702aafe1b7f352bcde9a544eebc830e2b08d9ca4"
+        },
+        {
+          "path": "fondos/anime/jujutsu-kaisen-01.jpg",
+          "bytes": 277835,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5bf68e7ee41a77fa4fbf8190a14c396c77087f500aa2ef2164d58f7530c83910"
+        },
+        {
+          "path": "fondos/anime/jujutsu-kaisen-02.jpg",
+          "bytes": 134944,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "35de2fef248f6b524811fe5d8fb7cf86db2093a5e0f6f691a0132be8fd24a5c7"
+        },
+        {
+          "path": "fondos/anime/jujutsu-kaisen-03.jpg",
+          "bytes": 463521,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "ce8de0e47da97122128d3ef53ab6224cbb5615501fb9d8a08b184656769737ee"
+        },
+        {
+          "path": "fondos/anime/jujutsu-kaisen-04.jpg",
+          "bytes": 560178,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "216bc2d8a07845a93d7fbc59ef8dd8857fcc544c5529e90985cadeb7457dd05f"
+        },
+        {
+          "path": "fondos/anime/jujutsu-kaisen-05.jpg",
+          "bytes": 66554,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "815c68e4b417ad2ccf1163a436ca6d61d1a0e650f04405bd496c2244fb129f8c"
+        },
+        {
+          "path": "fondos/anime/one-piece-01.jpg",
+          "bytes": 227110,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "56403a3beab68e6efbe5e5c552d87da1c7cacd81dfb67fc07d276a352eb4aa49"
+        },
+        {
+          "path": "fondos/anime/one-piece-02.jpg",
+          "bytes": 620227,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "9072becf9bfc0740d5e43bfa94ae9297d1cf4421d0ce079cdc045da3390dfa85"
+        },
+        {
+          "path": "fondos/anime/one-piece-03.jpg",
+          "bytes": 205259,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2c9e108a3e480a251a4ea2ddcf5338498390a9256a351b78757e4225d4672897"
+        },
+        {
+          "path": "fondos/anime/one-piece-04.jpg",
+          "bytes": 232374,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b52cb70ba1112876d49bc56aa3b884dd93b78060ab1ed3b02f3953cde6689ca0"
+        },
+        {
+          "path": "fondos/anime/one-piece-05.jpg",
+          "bytes": 671586,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "e3603e95c80ce30d42f7a77f457e49880333e7c1e42e2a023318bb28a2cb7c39"
+        },
+        {
+          "path": "fondos/anime/pokemon-01.jpg",
+          "bytes": 50623,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "f799ec192a5fac9a2a42d3989fc596d40e54050b9a8192fadb3bb64cf5b9f26e"
+        },
+        {
+          "path": "fondos/anime/pokemon-02.jpg",
+          "bytes": 227523,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "3b6fd2690ebe0b005dcdc2b697a5a30fed18b4a7d7314eb0e9a901c52570a76f"
+        },
+        {
+          "path": "fondos/anime/pokemon-03.jpg",
+          "bytes": 314407,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2b9ebb7fb06f8d5ef725d152ceae00f0ecbe8761f3c6c45c0ecaca29631e0258"
+        },
+        {
+          "path": "fondos/anime/pokemon-04.jpg",
+          "bytes": 181256,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "5d997cc6521540ef94f4a2d70dd0a333adc24fb724cc0664f42b5718f7bb446f"
+        },
+        {
+          "path": "fondos/anime/pokemon-05.jpg",
+          "bytes": 526426,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "d43f2ca9bb3cff5223bde55759650b634f9329d17ef19c6b835bc53af9033ecd"
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "label": "Coches",
+      "images": [
+        {
+          "path": "fondos/coches/01.jpg",
+          "bytes": 427927,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "8f9627268f4ebc1ada8f995511b042b70e139a7fdb316166fd06ad185a0e982d"
+        },
+        {
+          "path": "fondos/coches/02.jpg",
+          "bytes": 157953,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b01d9a1c7a8f80561d899cd71e2ffb7325a2ffa3405f60ff7da2546361a9310e"
+        },
+        {
+          "path": "fondos/coches/03.jpg",
+          "bytes": 276461,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2b263b68f2a96b45280f49da49b277ec31e9bea00611c5bf57c2734245ed6ff2"
+        },
+        {
+          "path": "fondos/coches/04.jpg",
+          "bytes": 345966,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "f02a131f604bd87fbec5d6ef793f12e0e46731e022fb9d48c37d3d858b1712cc"
+        },
+        {
+          "path": "fondos/coches/05.jpg",
+          "bytes": 103849,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "98cf759a3e448881b9a5e4217c110643bc692143f82ad9ef3e900c810164112b"
+        }
+      ]
     },
     {
       "id": "paintings",
       "label": "Pinturas y cuadros",
-      "images": []
+      "images": [
+        {
+          "path": "fondos/pinturas/01.jpg",
+          "bytes": 610239,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "caf68c8fc8f99f6d15ebf26bc0665aae94c230f43303ee254702f8c1c0e768d5"
+        },
+        {
+          "path": "fondos/pinturas/02.jpg",
+          "bytes": 919036,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "82183c2cc9c700eeaf34f9d39a37e2ab29a1c59b0039499c3f5351b8022b4ab1"
+        },
+        {
+          "path": "fondos/pinturas/03.jpg",
+          "bytes": 801992,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "da3322be3526bc1b2a674a19903169645a6e606e4f53e40a56ded350bcbd80f8"
+        },
+        {
+          "path": "fondos/pinturas/04.jpg",
+          "bytes": 685116,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "c39df8ec91b8605056650a1b583a066ed70e3f90d194e613b42df511afbd8a26"
+        },
+        {
+          "path": "fondos/pinturas/05.jpg",
+          "bytes": 930364,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "2e304421afbcedd294026dfccb82c706c43a05587d85e257cbcb6f676f0b6675"
+        }
+      ]
     }
   ]
 }

@@ -6,7 +6,7 @@ parte del catálogo; no se hacen búsquedas ni descargas de bancos de imágenes.
 ## Añadir tus fondos
 
 1. Entra en `fondos` y abre la carpeta de la temática.
-2. Pulsa **Add file → Upload files** y arrastra hasta cinco imágenes JPEG por categoría.
+2. Pulsa **Add file → Upload files** y arrastra hasta cinco imágenes JPEG por categoría. Anime admite hasta 30, cinco por cada una de las seis series seleccionadas.
 3. Usa nombres sencillos: `01.jpg`, `02.jpg`, `03.jpg`, `04.jpg` y `05.jpg`.
 4. Pulsa **Commit changes** en la rama `main`.
 5. En **Actions**, comprueba que «Actualizar catálogo de fondos» termina en verde.
@@ -34,9 +34,10 @@ y no generan enlaces a imágenes inexistentes. El archivo `.gitkeep` solo conser
 | Fondos montañosos | `fondos/montanosos` |
 | Estrellas | `fondos/estrellas` |
 | Anime | `fondos/anime` |
+| Coches | `fondos/coches` |
 | Pinturas y cuadros | `fondos/pinturas` |
 
-No hace falta completar las 65 imágenes para empezar. Para sustituir una imagen,
+La selección completa contiene 95 imágenes en 14 categorías, contando los 30 fondos de Anime. Para sustituir una imagen,
 reemplaza el mismo nombre. Para retirarla, bórrala: el catálogo se regenerará.
 
 ## Catálogo del launcher
