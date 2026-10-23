@@ -44,8 +44,9 @@ def build():
             raise ValueError('Carpeta de categoría incorrecta')
         images = []
         files = sorted(p for p in folder.iterdir() if p.is_file() and not p.name.startswith('.') and p.name != 'README.md')
-        if len(files) > 5:
-            raise ValueError(f'{folder.name}: máximo cinco imágenes')
+        limit = 30 if category['id'] == 'anime' else 5
+        if len(files) > limit:
+            raise ValueError(f'{folder.name}: máximo {limit} imágenes')
         for path in files:
             if path.suffix.lower() not in ('.jpg', '.jpeg'):
                 raise ValueError(f'{path.name}: utiliza JPEG (.jpg)')
