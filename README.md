@@ -51,9 +51,13 @@ JPEG existente. No contiene imágenes externas. Las rutas se resuelven dentro de
 repositorio. Las imágenes se alojan aquí, y la TV conservará solo el fondo descargado
 actual además de su fondo inicial incluido.
 
-**La versión del launcher instalada antes de crear este repositorio todavía usa el
-proveedor anterior. Crear el repositorio no cambia la TV: falta adaptar el launcher
-para que lea este catálogo.**
+Desde **2.5-philips-preview11**, la Philips lee este catálogo y descarga solo el fondo que va a mostrar. La colección completa no se almacena en la TV.
+
+Al subir o reemplazar imágenes, GitHub Actions valida los archivos y actualiza `catalogo.json`. Espera a que «Actualizar catálogo de fondos» termine en verde. La TV consultará la colección al cambiar el fondo semanal o al elegir **Cambiar fondo ahora**; no necesita otra APK para sustituir imágenes de las categorías existentes. GitHub puede tardar unos minutos en servir las nuevas versiones.
+
+En la TV, mantén OK sobre **Ajustes** (o pulsa Menú) y entra en **Tema**. Hay 14 categorías y un modo automático por época del año. **Conservar este fondo** pausa el cambio semanal; **Activar cambio semanal** lo reanuda. **Restaurar fondo inicial** vuelve al paisaje incluido y pausa la rotación.
+
+Si no hay conexión o una descarga no supera la validación, se conserva el fondo anterior. Las copias deben seguir siendo JPEG 16:9, de hasta 1920 × 1080 y 2 MiB, con un máximo de cinco por categoría y 30 en Anime.
 
 ## Créditos
 
